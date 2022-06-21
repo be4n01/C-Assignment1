@@ -1,0 +1,5 @@
+C:\Users\Benoni\Documents\GitHub\C-Assignment1\obj\Debug\net6.0\Trial 1.csproj.AssemblyReference.cache
+C:\Users\Benoni\Documents\GitHub\C-Assignment1\obj\Debug\net6.0\Trial 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benoni\Documents\GitHub\C-Assignment1\obj\Debug\net6.0\Trial 1.AssemblyInfoInputs.cache
+C:\Users\Benoni\Documents\GitHub\C-Assignment1\obj\Debug\net6.0\Trial 1.AssemblyInfo.cs
+C:\Users\Benoni\Documents\GitHub\C-Assignment1\obj\Debug\net6.0\Trial 1.csproj.CoreCompileInputs.cache
